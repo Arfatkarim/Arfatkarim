@@ -36,14 +36,26 @@ Other: REST APIs, Responsive Design
 ---
 
 ### 🔹 Data Science & Python Libraries
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,scikitlearn,jupyter,plotly" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=numpy" title="NumPy" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pandas" title="Pandas" height="40"/>
+  <img src="https://skillicons.dev/icons?i=matplotlib" title="Matplotlib" height="40"/>
+  <img src="https://skillicons.dev/icons?i=seaborn" title="Seaborn" height="40"/>
+  <img src="https://skillicons.dev/icons?i=scikitlearn" title="Scikit-learn" height="40"/>
+  <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter" height="40"/>
+  <img src="https://skillicons.dev/icons?i=plotly" title="Plotly" height="40"/>
 </p>
 
 <p align="center">
-<b>NumPy</b> – Numerical computing | <b>Pandas</b> – Data manipulation & analysis |  
-<b>Matplotlib</b> – Data visualization | <b>Seaborn</b> – Statistical visualization |  
-<b>Scikit-learn</b> – Machine Learning | <b>Jupyter Notebook</b> – Interactive coding |  
+<b>Python</b> – Programming Language |  
+<b>NumPy</b> – Numerical computing |  
+<b>Pandas</b> – Data manipulation & analysis |  
+<b>Matplotlib</b> – Data visualization |  
+<b>Seaborn</b> – Statistical visualization |  
+<b>Scikit-learn</b> – Machine Learning |  
+<b>Jupyter Notebook</b> – Interactive coding |  
 <b>Plotly</b> – Interactive charts & dashboards
 </p>
 
