@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Python Programmer | Data Science Learner | Full Stack Web Developer
+  Python Programmer | Data Science Enthusiast | Full Stack Web Developer
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm **Mohammad Arfat Karim**, a Python programmer and Full Stack Web Developer.  
+I'm **Mohammad Arfat Karim**, a passionate programmer and Full Stack Web Developer.  
 I focus on **Data Science, Data Analysis & Visualization**, and building **interactive web applications**.  
 I enjoy learning new technologies and creating projects that **solve real-world problems**.  
 I aspire to deliver **clean, efficient, and impactful solutions**, similar to a professional with 5–6 years of experience.
@@ -22,22 +22,27 @@ I aspire to deliver **clean, efficient, and impactful solutions**, similar to a 
 
 ## 🧰 Skills & Technologies
 
-### 🔹 Programming & Web Development
+### 🔹 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>
+- **Python** – Programming, Data Science, Machine Learning  
+- **Java** – OOP, Algorithms, Backend development  
+- **C** – Problem Solving, Competitive Programming  
+
+---
+
+### 🔹 Web Development & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,bootstrap,tailwind" />
 </p>
-
-<p align="center">
-Frontend: HTML, CSS, JavaScript, React |  
-Backend: Node.js, Express |  
-UI/Design: Tailwind, Bootstrap |  
-Other: REST APIs, Responsive Design
-</p>
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind  
+- **Backend:** Node.js, Express  
+- **Other:** REST APIs, Responsive Design, Interactive Web Apps  
 
 ---
 
 ### 🔹 Data Science & Python Libraries
-- **Python** – Programming Language  
 - **NumPy** – Numerical computing  
 - **Pandas** – Data manipulation & analysis  
 - **Matplotlib** – Data visualization  
@@ -50,16 +55,25 @@ Other: REST APIs, Responsive Design
 
 ---
 
+### 🔹 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+- **MongoDB** – NoSQL Database  
+- **MySQL** – Relational Database  
+- **PostgreSQL** – Advanced Relational Database  
+
+---
+
 ### 🔹 Tools & Workflow
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
 </p>
-
-<p align="center">
-Version Control: Git & GitHub | Editor: VS Code |  
-API Testing: Postman | Containerization: Docker |  
-OS & Terminal: Linux / Command-line
-</p>
+- **Version Control:** Git & GitHub  
+- **Editor:** VS Code  
+- **API Testing:** Postman  
+- **Containerization:** Docker  
+- **OS & Terminal:** Linux / Command-line  
 
 ---
 
@@ -68,10 +82,11 @@ I focus on projects that combine **Data Science insights** with **interactive we
 
 - Python & Data Science: Data Analysis, Machine Learning, Visualization  
 - Full Stack Web: React, Node.js, Express, Tailwind & Bootstrap  
+- Databases: MongoDB, MySQL, PostgreSQL integration  
 - Interactive dashboards & real-world applications  
 - Continuous learning & project updates  
 
-*Projects showcase skills in Python, Data Science, Web Development, and modern tools.*
+*Projects showcase skills in Python, Data Science, Web Development, Databases, and modern tools.*
 
 ---
 
