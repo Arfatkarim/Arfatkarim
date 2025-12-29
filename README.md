@@ -13,9 +13,9 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm **Mohammad Arfat Karim**, a passionate Python programmer and aspiring Full Stack Web Developer.  
-I focus on **Data Science, Data Analysis & Visualization**, and building **interactive web applications**.  
-My goal is to become a **skilled developer** combining **Data Science + Web Development** to deliver real-world solutions.
+I'm **Mohammad Arfat Karim**, a passionate Python programmer and Full Stack Web Developer.  
+I enjoy building **interactive web applications** and **turning raw data into meaningful insights**.  
+My goal is to create **impactful, data-driven solutions** with clean and modern code.
 
 ---
 
@@ -23,44 +23,52 @@ My goal is to become a **skilled developer** combining **Data Science + Web Deve
 
 ### 🔹 Programming & Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,express,bootstrap,tailwind,docker,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,docker" />
 </p>
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind, Bootstrap  
-- **Backend**: Node.js, Express, MongoDB  
-- **Dev Tools**: Docker, Git, GitHub, VS Code  
-- **Other**: REST APIs, Responsive Design  
+
+<p align="center">
+Frontend: HTML, CSS, JavaScript, React, Tailwind, Bootstrap |  
+Backend: Node.js, Express, MongoDB |  
+Dev Tools: Docker, Git, GitHub, VS Code |  
+Other: REST APIs, Responsive Design
+</p>
+
+---
 
 ### 🔹 Data Science & Python Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,scikitlearn,jupyter,plotly" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,scikitlearn,jupyter,plotly" />
 </p>
-- **NumPy** – Numerical computing  
-- **Pandas** – Data manipulation & analysis  
-- **Matplotlib** – Data visualization  
-- **Seaborn** – Statistical visualization  
-- **Scikit-learn** – Machine Learning  
-- **Jupyter Notebook** – Interactive coding environment  
-- **Plotly** – Interactive charts & dashboards  
+
+<p align="center">
+NumPy – Numerical computing | Pandas – Data manipulation & analysis |  
+Matplotlib – Data visualization | Seaborn – Statistical visualization |  
+Scikit-learn – Machine Learning | Jupyter Notebook – Interactive coding |  
+Plotly – Interactive charts & dashboards
+</p>
+
+---
 
 ### 🔹 Tools & Workflow
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
 </p>
-- **Version Control**: Git & GitHub  
-- **Editor**: VS Code  
-- **API Testing**: Postman  
-- **Containerization**: Docker  
-- **OS & Terminal**: Linux / Command-line  
+
+<p align="center">
+Version Control: Git & GitHub | Editor: VS Code |  
+API Testing: Postman | Containerization: Docker |  
+OS & Terminal: Linux / Command-line
+</p>
 
 ---
 
 ## 🚀 Projects & Focus
-I focus on projects that combine **Data Science insights** with **interactive web applications**:  
+I focus on projects that combine **Data Science insights** with **interactive web applications**:
 
-- 📌 Python & Data Science projects: Data Analysis, Machine Learning & Visualization  
-- 📌 Full Stack Web projects: React, Node.js, Express, Tailwind & Bootstrap  
-- 📌 Interactive dashboards and real-world applications  
-- 📌 Continuous learning & project updates to stay ahead in 2026  
+- 📌 Python & Data Science: Data Analysis, Machine Learning, Visualization  
+- 📌 Full Stack Web: React, Node.js, Express, Tailwind & Bootstrap  
+- 📌 Interactive dashboards & real-world applications  
+- 📌 Continuous learning & project updates to stay ahead  
 
 *Projects showcase skills in Python, Data Science, Web Development, and modern tools.*
 
@@ -77,4 +85,8 @@ I focus on projects that combine **Data Science insights** with **interactive we
   <a href="mailto:arafatkarim37@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arfatkarim&label=Profile+Views&color=0ea5e9&style=flat-square" />
 </p>
