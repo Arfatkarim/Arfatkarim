@@ -26,6 +26,7 @@ I aspire to deliver **clean, efficient, and impactful solutions**, similar to a 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
+
 - **Python** – Programming, Data Science, Machine Learning  
 - **Java** – OOP, Algorithms, Backend development  
 - **C** – Problem Solving, Competitive Programming  
@@ -36,6 +37,7 @@ I aspire to deliver **clean, efficient, and impactful solutions**, similar to a 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,bootstrap,tailwind" />
 </p>
+
 - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind  
 - **Backend:** Node.js, Express  
 - **Other:** REST APIs, Responsive Design, Interactive Web Apps  
@@ -59,6 +61,7 @@ I aspire to deliver **clean, efficient, and impactful solutions**, similar to a 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
+
 - **MongoDB** – NoSQL Database  
 - **MySQL** – Relational Database  
 - **PostgreSQL** – Advanced Relational Database  
@@ -69,6 +72,7 @@ I aspire to deliver **clean, efficient, and impactful solutions**, similar to a 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
 </p>
+
 - **Version Control:** Git & GitHub  
 - **Editor:** VS Code  
 - **API Testing:** Postman  
