@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  Python Programmer | Data Science Learner | Web Developer
+  Python Programmer | Data Science Learner | Full Stack Web Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Python+%26+Data+Science+Learner;Web+Developer+(HTML+CSS+JS+React);Turning+Data+into+Insights;Learning+Every+Day+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Python+%26+Data+Science+Learner;Full+Stack+Web+Developer+(HTML+CSS+JS+React+Node.js+Express+Tailwind+Bootstrap);Turning+Data+into+Insights" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 - 🐍 Completed **Python programming**
 - 📊 Currently learning **Data Science**
 - 📈 Interested in **Data Analysis, Visualization & Machine Learning**
-- 🌐 Web skills: **HTML, CSS, JavaScript, React**
+- 🌐 Web skills: **HTML, CSS, JavaScript, React, Node.js, Express, Bootstrap, Tailwind**
 - 🎯 Goal: Become a **Skilled Programmer & Data-Driven Developer**
 
 ---
@@ -25,7 +25,7 @@
 
 ### 🔹 Programming & Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,bootstrap,tailwind,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,express,bootstrap,tailwind" />
 </p>
 
 ### 🔹 Data Science (Python Libraries)
@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Arfatkarim&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=Arfatkarim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"
     height="170"
   />
   <img
@@ -73,7 +73,7 @@
 ## 🚀 Projects Focus
 - 📌 Python & Data Science projects
 - 📌 Data Analysis & Visualization
-- 📌 Web projects using HTML, CSS, JavaScript & React  
+- 📌 Full Stack Web projects using **HTML, CSS, JavaScript, React, Node.js, Express, Bootstrap, Tailwind**
 
 👉 *Projects will be added and improved continuously.*
 
