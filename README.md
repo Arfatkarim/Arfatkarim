@@ -23,9 +23,9 @@
 
 ## 🧰 Skills & Technologies
 
-### 🔹 Programming & Web
+### 🔹 Programming & Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,bootstrap,tailwind,nodejs,express" />
 </p>
 
 ### 🔹 Data Science (Python Libraries)
@@ -45,11 +45,20 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arfatkarim&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Arfatkarim&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Arfatkarim&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arfatkarim&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfatkarim&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
