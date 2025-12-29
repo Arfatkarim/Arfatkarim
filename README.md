@@ -1,9 +1,11 @@
 <h1 align="center">
-  Hi 👋, I'm Mohammad Arfat Karim
+  Hi 👋, I'm <span style="color:#00BFFF;">Mohammad Arfat Karim</span>
 </h1>
 
 <h3 align="center">
-  Python Programmer | Data Science Enthusiast | Full Stack Web Developer
+  <span style="color:#FFA500;">Python Programmer</span> | 
+  <span style="color:#FF69B4;">Data Science Enthusiast</span> | 
+  <span style="color:#7CFC00;">Full Stack Web Developer</span>
 </h3>
 
 <p align="center">
@@ -13,10 +15,10 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm **Mohammad Arfat Karim**, a passionate programmer and Full Stack Web Developer.  
-I focus on **Data Science, Data Analysis & Visualization**, and building **interactive web applications**.  
-I enjoy learning new technologies and creating projects that **solve real-world problems**.  
-I aspire to deliver **clean, efficient, and impactful solutions**, similar to a professional with 5–6 years of experience.
+I'm <b style="color:#00BFFF;">Mohammad Arfat Karim</b>, a passionate programmer and Full Stack Web Developer.  
+I focus on <b style="color:#FFA500;">Data Science, Data Analysis & Visualization</b>, and building <b style="color:#7CFC00;">interactive web applications</b>.  
+I enjoy learning new technologies and creating projects that <b style="color:#FF69B4;">solve real-world problems</b>.  
+I aspire to deliver <b style="color:#00BFFF;">clean, efficient, and impactful solutions</b>, similar to a professional with 5–6 years of experience.
 
 ---
 
@@ -27,9 +29,9 @@ I aspire to deliver **clean, efficient, and impactful solutions**, similar to a 
   <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
-- **Python** – Programming, Data Science, Machine Learning  
-- **Java** – OOP, Algorithms, Backend development  
-- **C** – Problem Solving, Competitive Programming  
+- <b style="color:#00BFFF;">Python</b> – Programming, Data Science, Machine Learning  
+- <b style="color:#FFA500;">Java</b> – OOP, Algorithms, Backend development  
+- <b style="color:#FF69B4;">C</b> – Problem Solving, Competitive Programming  
 
 ---
 
@@ -45,15 +47,16 @@ I aspire to deliver **clean, efficient, and impactful solutions**, similar to a 
 ---
 
 ### 🔹 Data Science & Python Libraries
-- **NumPy** – Numerical computing  
-- **Pandas** – Data manipulation & analysis  
-- **Matplotlib** – Data visualization  
-- **Seaborn** – Statistical visualization  
-- **Scikit-learn** – Machine Learning  
-- **Jupyter Notebook** – Interactive coding  
-- **Plotly** – Interactive charts & dashboards  
+- <b style="color:#00BFFF;">Python</b> – Programming Language  
+- <b style="color:#FFA500;">NumPy</b> – Numerical computing  
+- <b style="color:#FF69B4;">Pandas</b> – Data manipulation & analysis  
+- <b style="color:#7CFC00;">Matplotlib</b> – Data visualization  
+- <b style="color:#00BFFF;">Seaborn</b> – Statistical visualization  
+- <b style="color:#FFA500;">Scikit-learn</b> – Machine Learning  
+- <b style="color:#FF69B4;">Jupyter Notebook</b> – Interactive coding  
+- <b style="color:#7CFC00;">Plotly</b> – Interactive charts & dashboards  
 
-> Focused on building **data-driven solutions** and gaining **real-world Data Science experience**.
+> Focused on building <b style="color:#00BFFF;">data-driven solutions</b> and gaining <b style="color:#FFA500;">real-world Data Science experience</b>.
 
 ---
 
@@ -62,9 +65,9 @@ I aspire to deliver **clean, efficient, and impactful solutions**, similar to a 
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-- **MongoDB** – NoSQL Database  
-- **MySQL** – Relational Database  
-- **PostgreSQL** – Advanced Relational Database  
+- <b style="color:#00BFFF;">MongoDB</b> – NoSQL Database  
+- <b style="color:#FFA500;">MySQL</b> – Relational Database  
+- <b style="color:#FF69B4;">PostgreSQL</b> – Advanced Relational Database  
 
 ---
 
@@ -73,11 +76,11 @@ I aspire to deliver **clean, efficient, and impactful solutions**, similar to a 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
 </p>
 
-- **Version Control:** Git & GitHub  
-- **Editor:** VS Code  
-- **API Testing:** Postman  
-- **Containerization:** Docker  
-- **OS & Terminal:** Linux / Command-line  
+- <b style="color:#00BFFF;">Version Control:</b> Git & GitHub  
+- <b style="color:#FFA500;">Editor:</b> VS Code  
+- <b style="color:#FF69B4;">API Testing:</b> Postman  
+- <b style="color:#7CFC00;">Containerization:</b> Docker  
+- <b style="color:#00BFFF;">OS & Terminal:</b> Linux / Command-line  
 
 ---
 
