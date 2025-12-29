@@ -13,7 +13,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm **Mohammad Arfat Karim**, a Python programmer and Full Stack Web Developer.  
+I'm **Mohammad Arfat Karim**, a passionate Python programmer and Full Stack Web Developer.  
 I focus on **Data Science, Data Analysis & Visualization**, and building **interactive web applications**.  
 I enjoy learning new technologies and creating projects that **solve real-world problems**.
 
@@ -41,10 +41,10 @@ Other: REST APIs, Responsive Design
 </p>
 
 <p align="center">
-NumPy – Numerical computing | Pandas – Data manipulation & analysis |  
-Matplotlib – Data visualization | Seaborn – Statistical visualization |  
-Scikit-learn – Machine Learning | Jupyter Notebook – Interactive coding |  
-Plotly – Interactive charts & dashboards
+<b>NumPy</b> – Numerical computing | <b>Pandas</b> – Data manipulation & analysis |  
+<b>Matplotlib</b> – Data visualization | <b>Seaborn</b> – Statistical visualization |  
+<b>Scikit-learn</b> – Machine Learning | <b>Jupyter Notebook</b> – Interactive coding |  
+<b>Plotly</b> – Interactive charts & dashboards
 </p>
 
 ---
@@ -63,10 +63,14 @@ OS & Terminal: Linux / Command-line
 ---
 
 ## 🚀 Projects & Focus
-- Python & Data Science: Data Analysis, Machine Learning, Visualization  
-- Full Stack Web: React, Node.js, Express, Tailwind & Bootstrap  
-- Interactive dashboards & real-world applications  
-- Continuous learning & project updates  
+I focus on projects that combine **Data Science insights** with **interactive web applications**:
+
+- 📌 Python & Data Science: Data Analysis, Machine Learning, Visualization  
+- 📌 Full Stack Web: React, Node.js, Express, Tailwind & Bootstrap  
+- 📌 Interactive dashboards & real-world applications  
+- 📌 Continuous learning & project updates  
+
+*Projects showcase skills in Python, Data Science, Web Development, and modern tools.*
 
 ---
 
