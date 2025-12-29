@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#00BFFF;">Mohammad Arfat Karim</span>
+  Hi, I'm <span style="color:#00BFFF;">Mohammad Arfat Karim</span>
 </h1>
 
 <h3 align="center">
@@ -84,7 +84,7 @@ I aspire to deliver <b style="color:#00BFFF;">clean, efficient, and impactful so
 
 ---
 
-## 🚀 Projects & Focus
+## Projects & Focus
 I focus on projects that combine **Data Science insights** with **interactive web applications**:
 
 - Python & Data Science: Data Analysis, Machine Learning, Visualization  
